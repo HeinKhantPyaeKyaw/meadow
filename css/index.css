@@ -1,0 +1,28 @@
+p {font-size: 20px;
+    text-align: center;
+    color: brown; }
+body {background-color: antiquewhite;}
+
+/*css commit 1 - ID, class, and div tested */
+.list {text-align: center;
+        color: rgb(87, 159, 135);}
+div table {text-align: center;
+        color: rgb(125, 125, 125);
+        margin-left: auto;
+        margin-right: auto;
+        border: 5px solid;
+        border-radius: 10px; 
+        /* border-collapse: collapse; */
+        border-color: rgb(51, 53, 71);
+        margin: 100px;
+        /* padding: 100px; */
+        /* border-bottom: 5px solid; */
+        }
+
+th,tr,td {border:2px dotted rgb(45, 45, 45);
+padding: 5px;;}    
+
+.img {
+    width: 20%;
+    height: 20%
+}
